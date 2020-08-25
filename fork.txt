@@ -1,0 +1,11 @@
+<html>
+<head>
+</head>
+<body>
+first example on javascipt<br>
+<script type="text/javascript">
+console.log("welcome to body of console")
+document.write("hello kmit")
+</script>
+</body>
+</html>
